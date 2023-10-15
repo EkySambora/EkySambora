@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-# 💫 About Me:
 I'm Frontend developer and i'm still learning.
 
 
